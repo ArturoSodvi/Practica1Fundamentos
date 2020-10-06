@@ -2,3 +2,5 @@ Nombre: Arturo Pérez
 Edad: 30 años
 Juegos Actuales: League of legends 
 Juegos Favoritos: Resident Evil 
+Carrera:
+Especialidad:
