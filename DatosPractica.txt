@@ -4,5 +4,5 @@ Juegos Actuales: League of legends
 Juegos Favoritos: Resident Evil 
 Carrera:Ing en computación
 Especialidad: Computación Gráfica y sistemas inteligenetes
-Materia:
-Semestre:
+Materia: Fundamentos de Programación 
+Semestre: Tercero
